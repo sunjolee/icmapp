@@ -1,0 +1,9 @@
+C:\work\icmapp\icm.Data\bin\Debug\icm.Data.dll
+C:\work\icmapp\icm.Data\bin\Debug\icm.Data.pdb
+C:\work\icmapp\icm.Data\bin\Debug\MongoDB.Bson.dll
+C:\work\icmapp\icm.Data\bin\Debug\MongoDB.Driver.dll
+C:\work\icmapp\icm.Data\bin\Debug\MongoDB.Bson.xml
+C:\work\icmapp\icm.Data\bin\Debug\MongoDB.Driver.xml
+C:\work\icmapp\icm.Data\obj\Debug\icm.Data.csprojResolveAssemblyReference.cache
+C:\work\icmapp\icm.Data\obj\Debug\icm.Data.dll
+C:\work\icmapp\icm.Data\obj\Debug\icm.Data.pdb

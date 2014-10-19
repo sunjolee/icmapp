@@ -1,0 +1,11 @@
+C:\work\icmapp\icm.Front\bin\icm.Front.dll
+C:\work\icmapp\icm.Front\bin\icm.Front.pdb
+C:\work\icmapp\icm.Front\bin\EntityFramework.dll
+C:\work\icmapp\icm.Front\bin\MongoDB.Bson.dll
+C:\work\icmapp\icm.Front\bin\MongoDB.Driver.dll
+C:\work\icmapp\icm.Front\bin\EntityFramework.xml
+C:\work\icmapp\icm.Front\bin\MongoDB.Bson.xml
+C:\work\icmapp\icm.Front\bin\MongoDB.Driver.xml
+C:\work\icmapp\icm.Front\obj\Debug\icm.Front.csprojResolveAssemblyReference.cache
+C:\work\icmapp\icm.Front\obj\Debug\icm.Front.dll
+C:\work\icmapp\icm.Front\obj\Debug\icm.Front.pdb
