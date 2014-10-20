@@ -1,0 +1,4 @@
+C:\GitWork\icmapp\icm.Framework\bin\Debug\icm.Framework.dll
+C:\GitWork\icmapp\icm.Framework\bin\Debug\icm.Framework.pdb
+C:\GitWork\icmapp\icm.Framework\obj\Debug\icm.Framework.dll
+C:\GitWork\icmapp\icm.Framework\obj\Debug\icm.Framework.pdb
