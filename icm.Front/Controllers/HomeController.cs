@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+using icm.Framework;
+
 namespace icm.Front.Controllers
 {
     public class HomeController : Controller
@@ -12,10 +14,20 @@ namespace icm.Front.Controllers
         {
             ViewBag.Message = "Welcome to ASP.NET MVC!";
 
+            string aa = "123";
+
+            bool a = aa.IsNullOrEmpty();
+              
             return View();
         }
 
         public ActionResult About()
+        {
+            return View();
+        }
+
+
+        public ActionResult Main()
         {
             return View();
         }

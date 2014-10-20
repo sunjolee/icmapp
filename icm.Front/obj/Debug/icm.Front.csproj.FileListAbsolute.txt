@@ -9,3 +9,16 @@ C:\work\icmapp\icm.Front\bin\MongoDB.Driver.xml
 C:\work\icmapp\icm.Front\obj\Debug\icm.Front.csprojResolveAssemblyReference.cache
 C:\work\icmapp\icm.Front\obj\Debug\icm.Front.dll
 C:\work\icmapp\icm.Front\obj\Debug\icm.Front.pdb
+C:\GitWork\icmapp\icm.Front\bin\icm.Front.dll
+C:\GitWork\icmapp\icm.Front\bin\icm.Front.pdb
+C:\GitWork\icmapp\icm.Front\bin\EntityFramework.dll
+C:\GitWork\icmapp\icm.Front\bin\MongoDB.Bson.dll
+C:\GitWork\icmapp\icm.Front\bin\MongoDB.Driver.dll
+C:\GitWork\icmapp\icm.Front\bin\EntityFramework.xml
+C:\GitWork\icmapp\icm.Front\bin\MongoDB.Bson.xml
+C:\GitWork\icmapp\icm.Front\bin\MongoDB.Driver.xml
+C:\GitWork\icmapp\icm.Front\obj\Debug\icm.Front.csprojResolveAssemblyReference.cache
+C:\GitWork\icmapp\icm.Front\obj\Debug\icm.Front.dll
+C:\GitWork\icmapp\icm.Front\obj\Debug\icm.Front.pdb
+C:\GitWork\icmapp\icm.Front\bin\icm.Framework.dll
+C:\GitWork\icmapp\icm.Front\bin\icm.Framework.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icm.Data", "icm.Data\icm.Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icm.Front", "icm.Front\icm.Front.csproj", "{B3924ED5-FC9A-4B1D-90B0-FFAC6AB28804}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icm.Framework", "icm.Framework\icm.Framework.csproj", "{1EB209EA-96C1-400A-8251-A7970E79FED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{B3924ED5-FC9A-4B1D-90B0-FFAC6AB28804}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{B3924ED5-FC9A-4B1D-90B0-FFAC6AB28804}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B3924ED5-FC9A-4B1D-90B0-FFAC6AB28804}.Release|x86.ActiveCfg = Release|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1EB209EA-96C1-400A-8251-A7970E79FED8}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
